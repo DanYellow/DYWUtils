@@ -1,4 +1,5 @@
 # DYWUtils
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Dan42K/DYWUtils.svg?style=flat)](https://travis-ci.org/Dan42K/DYWUtils)
 [![Version](https://img.shields.io/cocoapods/v/DYWUtils.svg?style=flat)](http://cocoapods.org/pods/DYWUtils)
@@ -27,3 +28,4 @@ Dan42K, jeanlouis.danielo@sfr.fr
 ## License
 
 DYWUtils is available under the MIT license. See the LICENSE file for more info.
+
