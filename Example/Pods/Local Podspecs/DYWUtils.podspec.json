@@ -1,0 +1,25 @@
+{
+  "name": "DYWUtils",
+  "version": "0.1.0",
+  "summary": "A short description of DYWUtils.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DYWUtils",
+  "license": "MIT",
+  "authors": {
+    "Dan42K": "jeanlouis.danielo@sfr.fr"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DYWUtils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "DYWUtils": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
